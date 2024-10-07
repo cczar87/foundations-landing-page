@@ -1,5 +1,6 @@
 body {
-    height: 100vh;
+    max-width: 100%;
+    height: auto;
     display: flex;
     flex-direction: column;
     font-family: "Roboto", sans-serif, 'Courier New', Courier, monospace;
